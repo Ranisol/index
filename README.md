@@ -1,4 +1,4 @@
 ## naming-convention
-source-XXX
+source-XXX: code for use
 
-test-XXX
+test-XXX: learing with test
